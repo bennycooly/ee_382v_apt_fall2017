@@ -1,0 +1,3 @@
+[submodule "mini-projects/Connexus"]
+	path = mini-projects/Connexus
+	url = https://github.com/UT-APT/Connexus.git
