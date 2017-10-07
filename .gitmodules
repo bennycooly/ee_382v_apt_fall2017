@@ -1,7 +1,6 @@
-[submodule "shared_repo"]
-	path = shared_repo
+[submodule "shared-repo"]
+	path = shared-repo
 	url = https://github.com/UT-APT/byf69.git
-
 [submodule "Connexus"]
 	path = mini-projects/Connexus
 	url = https://github.com/UT-APT/Connexus.git
