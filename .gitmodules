@@ -9,3 +9,4 @@
 [submodule "mini-projects/connexus-android"]
 	path = mini-projects/connexus-android
 	url = https://github.com/UT-APT/connexus-android.git
+	
