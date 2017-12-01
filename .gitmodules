@@ -10,3 +10,6 @@
 	path = mini-projects/connexus-android
 	url = https://github.com/UT-APT/connexus-android.git
 	
+[submodule "final-project/cartbuddy-server"]
+	path = final-project/cartbuddy-server
+	url = https://github.com/CartBuddy/cartbuddy-server.git
